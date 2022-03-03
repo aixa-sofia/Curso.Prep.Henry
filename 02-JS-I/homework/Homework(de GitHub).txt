@@ -1,0 +1,16 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables:
+Es un elemento que nos permite nombrar y asignar datos, para luego reutilizarlos.
+
+Strings:
+Son palabras o numeros que siempre van entre comillas.
+
+Funciones (argumentos, return):
+A traves de las variables construimos las funciones, que es como vamos a decirle a la computadora que hacer.
+
+Declaraciones if:
+La declaracion if nos permite dar condicion a una funcion, si pasa esto, hacer esto.
+
+Valores booleanos (true, false):
+Se utilizan para indicar verdadero (true) o falso (false).
