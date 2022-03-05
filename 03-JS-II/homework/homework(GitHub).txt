@@ -1,0 +1,8 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for: Es un bucle que a partir de una variable se ejecuta hasta que la condicion sea falsa.
+
+&&: Significa and, permite comparar todas las condiciones, si todas son verdaderas, se ejecuta el codigo.
+
+||: Significa or, si alguna de las condiciones es veradadera se ejecuta el codigo.
+
+!: Significa not, ejecuta lo contrario a el parametro.
